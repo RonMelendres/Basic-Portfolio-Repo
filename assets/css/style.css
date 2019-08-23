@@ -1,16 +1,15 @@
 body{
-    width:960px;
-    background-color: #ffffff;
-    background-image: url(assets/Images/white-waves.png)
+    width: 960px;
+    background-image: url("/assets/Images/interlaced.png");
 }
 header{
     background-color:#ffffff;
-    border: 1px solid #cccccc;
+    border: 2px solid #cccccc;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     color: #777777;
     text-align: right;
-    margin:0px -485px -9px -9px;
+    margin:-8px -485px -9px -9px;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-right: 179px;
@@ -26,8 +25,8 @@ h1{
     color: white;
     border-color:1px #cccccc;
     position: absolute;
-    top: -13px;
-    left: 200px;
+    top: -21px;
+    left: 208px;
     width: 300px;
     padding-top: 31px;
     padding-bottom:32px;
@@ -92,7 +91,7 @@ footer{
     color:#777777;
     text-align: center;
     border-top: 7px solid #4aaaa5;
-    margin:10px -485px 10px -9px;
+    margin:114px -485px 10px -9px;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-right: 179px;
