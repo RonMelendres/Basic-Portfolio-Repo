@@ -1,0 +1,100 @@
+body{
+    width:960px;
+    background-color: #ffffff;
+    background-image: url(assets/Images/white-waves.png)
+}
+header{
+    background-color:#ffffff;
+    border: 1px solid #cccccc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    text-align: right;
+    margin:0px -485px -9px -9px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 179px;
+}
+li{
+    display: inline;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: white;
+    border-color:1px #cccccc;
+    position: absolute;
+    top: -13px;
+    left: 200px;
+    width: 300px;
+    padding-top: 31px;
+    padding-bottom:32px;
+
+}
+
+
+#section{
+    text-align: left;
+    background-color:#ffffff;
+    border:1px solid #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    width: 960px; 
+    height: 500px;
+    margin: 50px 10px 40px 200px;
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: -10px;
+    padding-left: 50px;
+
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    color:#4aaaa5;
+    border-color:#cccccc;
+}
+
+hr{
+    border: 2px solid #dddddd;
+}
+
+#p1{
+    margin:-260px 300px 10px 300px;
+    width: 70%;
+    line-height: 1.6;
+}
+
+#p2{
+    margin:10px 10px 10px 300px;
+    width: 70%;
+    line-height: 1.6;
+}
+
+#p3{
+    margin:10px 10px 10px 300px;
+    width: 70%;
+    line-height: 1.6;
+}
+
+#p4{
+    line-height: 1.6;
+}
+
+
+
+footer{
+    background-color:#666666;
+    color:#777777;
+    text-align: center;
+    border-top: 7px solid #4aaaa5;
+    margin:10px -485px 10px -9px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 179px;
+    padding-left: 175px;
+}
