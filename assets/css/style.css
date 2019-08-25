@@ -2,6 +2,7 @@ body{
     width: 960px;
     background-image: url("/assets/Images/interlaced.png");
 }
+
 header{
     background-color:#ffffff;
     border: 2px solid #cccccc;
@@ -14,6 +15,7 @@ header{
     padding-bottom: 20px;
     padding-right: 179px;
 }
+
 li{
     display: inline;
 }
@@ -32,7 +34,6 @@ h1{
     padding-bottom:32px;
 
 }
-
 
 #section{
     text-align: left;
@@ -83,8 +84,6 @@ hr{
 #p4{
     line-height: 1.6;
 }
-
-
 
 footer{
     background-color:#666666;
