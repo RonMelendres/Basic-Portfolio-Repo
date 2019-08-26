@@ -1,6 +1,6 @@
 body{
     width: 960px;
-    background-image: url("/assets/Images/interlaced.png");
+    background-image: url("../Images/interlaced.png");
 }
 
 header{
